@@ -22,3 +22,10 @@
 *.yaml
 *.yml
 *.db
+
+# Model Files
+*.h5
+*.hdf5
+*.model
+*.pth
+*.pt
