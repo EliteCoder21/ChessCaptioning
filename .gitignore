@@ -1,0 +1,24 @@
+# Compiler outputs #
+*.a
+*.bat
+*.exe
+
+# Directories #
+
+
+# Packages #
+*.gz
+*.iso
+*.jar
+
+# Data Files
+*.csv
+*.dat
+*.log
+*.out
+*.tmp
+*.xml
+*.json
+*.yaml
+*.yml
+*.db
